@@ -1,0 +1,176 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B041-C0BF
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence
+
+02/20/2024  09:55 PM    <DIR>          .
+02/20/2024  07:15 PM    <DIR>          ..
+02/20/2024  09:44 PM    <DIR>          Lager
+02/20/2024  09:55 PM                 0 Lager.txt
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:55 PM    <DIR>          ..
+02/20/2024  09:44 PM               310 LICENSE
+02/20/2024  09:44 PM             5,389 pom.xml
+02/20/2024  09:44 PM               461 README
+02/20/2024  09:44 PM    <DIR>          src
+               3 File(s)          6,160 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM    <DIR>          main
+02/20/2024  09:44 PM    <DIR>          test
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\main
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM    <DIR>          java
+02/20/2024  09:44 PM    <DIR>          resources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\main\java
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM    <DIR>          Lager
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\main\java\Lager
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM    <DIR>          api
+02/20/2024  09:44 PM    <DIR>          config
+02/20/2024  09:44 PM    <DIR>          impl
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\main\java\Lager\api
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM                85 MyPluginComponent.java
+               1 File(s)             85 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\main\java\Lager\config
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM             1,563 MyPluginJavaConfig.java
+               1 File(s)          1,563 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\main\java\Lager\impl
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM               648 MyPluginComponentImpl.java
+               1 File(s)            648 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\main\resources
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM             1,047 atlassian-plugin.xml
+02/20/2024  09:44 PM    <DIR>          css
+02/20/2024  09:44 PM    <DIR>          images
+02/20/2024  09:44 PM    <DIR>          js
+02/20/2024  09:44 PM                53 Lager.properties
+02/20/2024  09:44 PM    <DIR>          META-INF
+               2 File(s)          1,100 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\main\resources\css
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM                 0 Lager.css
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\main\resources\images
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM               958 pluginIcon.png
+02/20/2024  09:44 PM             4,378 pluginLogo.png
+               2 File(s)          5,336 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\main\resources\js
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM                 0 Lager.js
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\main\resources\META-INF
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM    <DIR>          spring
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\main\resources\META-INF\spring
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM               623 plugin-context.xml
+               1 File(s)            623 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\test
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM    <DIR>          java
+02/20/2024  09:44 PM    <DIR>          resources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\test\java
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM    <DIR>          it
+02/20/2024  09:44 PM    <DIR>          ut
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\test\java\it
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM    <DIR>          Lager
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\test\java\it\Lager
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM               922 MyComponentWiredTest.java
+               1 File(s)            922 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\test\java\ut
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM    <DIR>          Lager
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\test\java\ut\Lager
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM               420 MyComponentUnitTest.java
+               1 File(s)            420 bytes
+
+ Directory of C:\Users\Lager\eclipse-workspace\Confluence\Lager\src\test\resources
+
+02/20/2024  09:44 PM    <DIR>          .
+02/20/2024  09:44 PM    <DIR>          ..
+02/20/2024  09:44 PM               649 atlassian-plugin.xml
+               1 File(s)            649 bytes
+
+     Total Files Listed:
+              17 File(s)         17,506 bytes
+              65 Dir(s)  830,287,020,032 bytes free
