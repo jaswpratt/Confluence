@@ -2,7 +2,7 @@ package Lager.impl;
 
 import com.atlassian.sal.api.ApplicationProperties;
 import Lager.api.MyPluginComponent;
-
+// A new comment
 
 public class MyPluginComponentImpl implements MyPluginComponent
 {
@@ -12,14 +12,15 @@ public class MyPluginComponentImpl implements MyPluginComponent
     {
         this.applicationProperties = applicationProperties;
     }
-
+// A new comment
     public String getName()
     {
         if(null != applicationProperties)
         {
             return "myComponent:" + applicationProperties.getDisplayName();
         }
-        
+        // A new comment
         return "myComponent";
     }
+
 }
